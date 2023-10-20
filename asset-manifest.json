@@ -1,9 +1,7 @@
 {
   "files": {
-    "main.css": "/kimchen-cooking-blog/static/css/main.943206f7.css",
-    "main.js": "/kimchen-cooking-blog/static/js/main.2d2f22b2.js",
-    "static/media/pastaFoodImg.png": "/kimchen-cooking-blog/static/media/pastaFoodImg.9c12c78a2f8c6ebc66d8.png",
-    "static/media/koreanFoodImg.png": "/kimchen-cooking-blog/static/media/koreanFoodImg.ba913bae0a16cc57082e.png",
+    "main.css": "/kimchen-cooking-blog/static/css/main.a8069de8.css",
+    "main.js": "/kimchen-cooking-blog/static/js/main.d2011ef6.js",
     "static/media/sportsImage.png": "/kimchen-cooking-blog/static/media/sportsImage.f784c348c12c7e5da382.png",
     "static/media/honeypizza.png": "/kimchen-cooking-blog/static/media/honeypizza.6a6df19d52f55ef2ca50.png",
     "static/media/aboutMeImage.png": "/kimchen-cooking-blog/static/media/aboutMeImage.f2b9f54754f11e088997.png",
@@ -12,13 +10,13 @@
     "static/media/jeongol.png": "/kimchen-cooking-blog/static/media/jeongol.57120ea3f57fdb98749b.png",
     "static/media/katsudon.png": "/kimchen-cooking-blog/static/media/katsudon.0c1892ab8669d98ccbf8.png",
     "static/media/outsideFoodImage.jpg": "/kimchen-cooking-blog/static/media/outsideFoodImage.a93fbacf591ca5420539.jpg",
-    "static/media/westernFoodImg.png": "/kimchen-cooking-blog/static/media/westernFoodImg.9a3b0ef27da73244bb71.png",
+    "static/media/trialim2.jpg": "/kimchen-cooking-blog/static/media/trialim2.612537177cd99e4effc2.jpg",
     "index.html": "/kimchen-cooking-blog/index.html",
-    "main.943206f7.css.map": "/kimchen-cooking-blog/static/css/main.943206f7.css.map",
-    "main.2d2f22b2.js.map": "/kimchen-cooking-blog/static/js/main.2d2f22b2.js.map"
+    "main.a8069de8.css.map": "/kimchen-cooking-blog/static/css/main.a8069de8.css.map",
+    "main.d2011ef6.js.map": "/kimchen-cooking-blog/static/js/main.d2011ef6.js.map"
   },
   "entrypoints": [
-    "static/css/main.943206f7.css",
-    "static/js/main.2d2f22b2.js"
+    "static/css/main.a8069de8.css",
+    "static/js/main.d2011ef6.js"
   ]
 }
