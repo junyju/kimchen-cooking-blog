@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kimchen-cooking-blog/static/css/main.a8069de8.css",
-    "main.js": "/kimchen-cooking-blog/static/js/main.d2011ef6.js",
-    "static/media/sportsImage.png": "/kimchen-cooking-blog/static/media/sportsImage.f784c348c12c7e5da382.png",
-    "static/media/honeypizza.png": "/kimchen-cooking-blog/static/media/honeypizza.6a6df19d52f55ef2ca50.png",
-    "static/media/aboutMeImage.png": "/kimchen-cooking-blog/static/media/aboutMeImage.f2b9f54754f11e088997.png",
-    "static/media/creampestopasta.png": "/kimchen-cooking-blog/static/media/creampestopasta.2f02a886b5c817bf39dd.png",
-    "static/media/restaurantImage.png": "/kimchen-cooking-blog/static/media/restaurantImage.f13d8da8d40ddfb7692d.png",
-    "static/media/jeongol.png": "/kimchen-cooking-blog/static/media/jeongol.57120ea3f57fdb98749b.png",
-    "static/media/katsudon.png": "/kimchen-cooking-blog/static/media/katsudon.0c1892ab8669d98ccbf8.png",
-    "static/media/outsideFoodImage.jpg": "/kimchen-cooking-blog/static/media/outsideFoodImage.a93fbacf591ca5420539.jpg",
-    "static/media/trialim2.jpg": "/kimchen-cooking-blog/static/media/trialim2.612537177cd99e4effc2.jpg",
-    "index.html": "/kimchen-cooking-blog/index.html",
-    "main.a8069de8.css.map": "/kimchen-cooking-blog/static/css/main.a8069de8.css.map",
-    "main.d2011ef6.js.map": "/kimchen-cooking-blog/static/js/main.d2011ef6.js.map"
+    "main.css": "/static/css/main.a8069de8.css",
+    "main.js": "/static/js/main.edef96ce.js",
+    "static/media/sportsImage.png": "/static/media/sportsImage.f784c348c12c7e5da382.png",
+    "static/media/honeypizza.png": "/static/media/honeypizza.6a6df19d52f55ef2ca50.png",
+    "static/media/aboutMeImage.png": "/static/media/aboutMeImage.f2b9f54754f11e088997.png",
+    "static/media/creampestopasta.png": "/static/media/creampestopasta.2f02a886b5c817bf39dd.png",
+    "static/media/restaurantImage.png": "/static/media/restaurantImage.f13d8da8d40ddfb7692d.png",
+    "static/media/jeongol.png": "/static/media/jeongol.57120ea3f57fdb98749b.png",
+    "static/media/katsudon.png": "/static/media/katsudon.0c1892ab8669d98ccbf8.png",
+    "static/media/outsideFoodImage.jpg": "/static/media/outsideFoodImage.a93fbacf591ca5420539.jpg",
+    "static/media/trialim2.jpg": "/static/media/trialim2.612537177cd99e4effc2.jpg",
+    "index.html": "/index.html",
+    "main.a8069de8.css.map": "/static/css/main.a8069de8.css.map",
+    "main.edef96ce.js.map": "/static/js/main.edef96ce.js.map"
   },
   "entrypoints": [
     "static/css/main.a8069de8.css",
-    "static/js/main.d2011ef6.js"
+    "static/js/main.edef96ce.js"
   ]
 }
