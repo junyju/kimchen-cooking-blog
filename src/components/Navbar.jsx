@@ -118,9 +118,9 @@ const Navbar = () => {
                 >
                   Recipes
                 </a>
-                <a href="" className="py-5 px-3 text-gray-700 hover:text-black">
+                {/* <a href="" className="py-5 px-3 text-gray-700 hover:text-black">
                   Essentials
-                </a>
+                </a> */}
                 <a href="" className="py-5 px-3 text-gray-700 hover:text-black">
                   About Me
                 </a>

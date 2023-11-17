@@ -1,6 +1,11 @@
 import React from "react";
 import RecipeCategoryHome from "./RecipeCategoryHome";
-import catPlaceholder from "../assets/trialim2.jpg";
+import asianCat from "../homepage_assets/asianCat.png";
+import drinkCat from "../homepage_assets/drinkCat.png";
+import dessertCat from "../homepage_assets/dessertCat.png";
+import koreanCat from "../homepage_assets/koreanCat.png";
+import pastaCat from "../homepage_assets/pastaCat.png";
+import westernCat from "../homepage_assets/westernCat.png";
 
 const HomeRecipes = () => {
   return (
@@ -10,12 +15,12 @@ const HomeRecipes = () => {
           STILL HUNGRY?
         </h1>
         <div className="grid grid-cols-3 sm:grid-cols-6 gap-8">
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="KOREAN" />
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="WESTERN" />
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="PASTA" />
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="DESSERT" />
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="PASTA" />
-          <RecipeCategoryHome img={catPlaceholder} recipeCat="DESSERT" />
+          <RecipeCategoryHome img={koreanCat} recipeCat="KOREAN" />
+          <RecipeCategoryHome img={asianCat} recipeCat="ASIAN" />
+          <RecipeCategoryHome img={westernCat} recipeCat="WESTERN" />
+          <RecipeCategoryHome img={pastaCat} recipeCat="PASTA" />
+          <RecipeCategoryHome img={dessertCat} recipeCat="DESSERT" />
+          <RecipeCategoryHome img={drinkCat} recipeCat="DRINKS" />
         </div>
       </div>
     </div>

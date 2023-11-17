@@ -1,9 +1,9 @@
 import React from "react";
 import DishCard from "./DishCard";
-import pestoPasta from "../assets/creampestopasta.png";
-import jeonGol from "../assets/jeongol.png";
-import katsuDon from "../assets/katsudon.png";
-import honeyPizza from "../assets/honeypizza.png";
+import pestoPasta from "../homepage_assets/pestoCreamPastaHome.png";
+import jeonGol from "../homepage_assets/jeonGolHome.png";
+import musubi from "../homepage_assets/musubiHome.png";
+import honeyPizza from "../homepage_assets/honeyPizzaHome.png";
 
 const HomeFeatured = () => {
   return (
@@ -35,8 +35,9 @@ const HomeFeatured = () => {
             description="Satisfy your Asian soup cravings with budget shabu at home. Slurp!"
           />
           <DishCard
-            img={katsuDon}
-            name="KATSU DON"
+            img={musubi}
+            link={"spam-musubi"}
+            name="SPAM MUSUBI"
             description="To be honest if it wasn't for the excess oil I'd make this everyday. "
           />
           <DishCard
